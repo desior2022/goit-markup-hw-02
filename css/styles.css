@@ -1,0 +1,23 @@
+:root {
+    --accent-color: #2196F3;
+    --primary-text-color: #212121;
+    --secondary-text-color: #757575;
+    --white-color: #FFFFFF;
+    --background: #2F303A;
+}
+
+body {
+    font-family: Roboto; sans-serif;
+}
+.logo {
+    font-family: Raleway; sans-serif;
+    color: #000000;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    
+}
+.logo-style {
+    color: var(--accent-color)
+}
